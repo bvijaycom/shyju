@@ -1,3 +1,11 @@
+# Docker Administration Deep Dive
+
+# Before start this excercise,you must have running CENTOS 7 linux machine.
+
+# Create one VM
+ - create 1 Ubuntu linux machine in AZURE Cloud [or] AWS Cloud [or] In your local laptop using Vmware workstation
+ - make sure you opened RDP,http,8080 ports for this new VM
+
 ## Docker Training 
 
 1) Docker Installation 
